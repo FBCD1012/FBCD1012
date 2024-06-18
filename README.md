@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![image](https://github.com/FBCD1012/FBCD1012/assets/103885405/2761a131-cc63-4671-bbff-789b03a43a68)
 
 <!--
