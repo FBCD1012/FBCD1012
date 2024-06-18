@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 - ⚡ Fun fact: ...
 -->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FBCD1012)](https://github.com/anuraghazra/github-readme-stats)
