@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/FBCD1012/gitSNK/blob/output/github-snake.gif)
