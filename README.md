@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 - ⚡ Fun fact: ...
 -->
-![FBCD's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![FBCD's GitHub stats](https://github-readme-stats.vercel.app/api?username=FBCD1012&show_icons=true&theme=radical)
 
