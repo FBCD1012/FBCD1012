@@ -1,5 +1,6 @@
 ## Hi there 👋
-![logo](https://github.com/FBCD1012/FBCD1012/assets/103885405/c2b1b00d-7b7d-4718-869c-7416810df1d5)
+![image](https://github.com/FBCD1012/FBCD1012/assets/103885405/2761a131-cc63-4671-bbff-789b03a43a68)
+
 <!--
 **FBCD1012/FBCD1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
